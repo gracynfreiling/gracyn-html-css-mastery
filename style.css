@@ -44,7 +44,11 @@ html {
   .byline {
     font-family: Arial, sans-serif;
     font-size: 1.4rem;
-}
+  }
+
+  figure img {
+    width: 100%;
+  }
 
   figcaption {
     font-family: Arial, sans-serif;
@@ -54,7 +58,7 @@ html {
     text-align: right;
   }
 
-  .date {
+  .byline span {
     font-style: italic;
   }
 
